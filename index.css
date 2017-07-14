@@ -1,0 +1,75 @@
+.menu ul {
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.menu li {
+    width:20%;
+    float:left; 
+}
+
+
+.menu li a {
+  
+  display: inline-block;
+  color: orange;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.background {
+  background-image: url('http://img13.deviantart.net/3d67/i/2002/47/9/0/simple_orange_background.jpg');
+  background-repeat: repeat-none;
+}
+
+.ethan {
+  color: Blue;
+}
+
+.threeColumns {
+  width: 100%;
+}
+
+.column {
+  padding: 4px 4px 4px 4px;
+  width:31%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+
+.center {
+  text-align:center;
+}
+
+.bob {
+  color: blue;
+  font-size: 40px;
+}
+
+.color {
+  background-color: blue;
+}
+
+.jill {
+  color: #fd5e53;
+}
+
+
+
+
+
+
+
+
